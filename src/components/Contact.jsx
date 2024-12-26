@@ -25,7 +25,7 @@ const Contact = () => {
                   <input
                     type="text"
                     className="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-indigo-600 focus:border-transparent transition-all duration-200"
-                    placeholder="John"
+                    placeholder="First Name"
                   />
                 </div>
                 <div className="space-y-2">
@@ -35,7 +35,7 @@ const Contact = () => {
                   <input
                     type="text"
                     className="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-indigo-600 focus:border-transparent transition-all duration-200"
-                    placeholder="Doe"
+                    placeholder="Last Name"
                   />
                 </div>
               </div>
@@ -47,7 +47,7 @@ const Contact = () => {
                 <input
                   type="email"
                   className="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-indigo-600 focus:border-transparent transition-all duration-200"
-                  placeholder="john@example.com"
+                  placeholder="YourEmail@example.com"
                 />
               </div>
               
@@ -86,15 +86,14 @@ const Contact = () => {
                   <div className="w-12 h-12 bg-indigo-50 rounded-lg flex items-center justify-center group-hover:bg-indigo-100 transition-colors">
                     <Phone className="w-6 h-6 text-indigo-600" />
                   </div>
-                  <span>+1 (555) 123-4567</span>
+                  <span>+917002564394</span>
                 </a>
                 <div className="flex items-center space-x-4 text-gray-600">
                   <div className="w-12 h-12 bg-indigo-50 rounded-lg flex items-center justify-center">
                     <MapPin className="w-6 h-6 text-indigo-600" />
                   </div>
                   <span>
-                    123 Business Street<br />
-                    New York, NY 10001
+                  Nagaon, Assam, India
                   </span>
                 </div>
               </div>

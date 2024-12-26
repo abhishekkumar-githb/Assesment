@@ -5,23 +5,23 @@ const Features = () => {
   const features = [
     {
       icon: <Shield className="w-8 h-8 text-indigo-600" />,
-      title: 'Secure & Reliable',
-      description: 'Enterprise-grade security with 99.9% uptime guarantee'
+      title: 'Expert Work',
+      description: 'We have experienced development team, designers and marketing expert.'
     },
     {
       icon: <Zap className="w-8 h-8 text-indigo-600" />,
-      title: 'Lightning Fast',
-      description: 'Optimized performance for the best user experience'
+      title: '24/7 Support',
+      description: 'Free support. Contact us anytime.'
     },
     {
       icon: <Star className="w-8 h-8 text-indigo-600" />,
-      title: 'Premium Quality',
-      description: 'Top-notch quality in every aspect of our service'
+      title: 'Creative Design',
+      description: 'Creative UI/ UX design by Expert designers.'
     },
     {
       icon: <Smartphone className="w-8 h-8 text-indigo-600" />,
-      title: 'Fully Responsive',
-      description: 'Perfect experience across all devices and screens'
+      title: 'Well Experienced',
+      description: 'We provide professional quality services by well experienced team.'
     }
   ];
 

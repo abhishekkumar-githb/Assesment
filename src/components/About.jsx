@@ -19,7 +19,7 @@ const About = () => {
               About Our Company
             </h2>
             <p className="text-xl text-gray-600">
-              We're a team of passionate individuals dedicated to creating exceptional digital experiences. With years of expertise, we help businesses transform their ideas into reality.
+            We provide a range of internet business services, including app development, game development, web development, publishing, and promotion to meet all your digital needs.
             </p>
             
             <div className="space-y-4">
